@@ -13,4 +13,4 @@
 
    1)cd client
 
-   2)npm run cypress
+   2)npm run test:cypress
