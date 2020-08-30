@@ -10,7 +10,9 @@
 
 
    TEST
+   
+   1)npm run dev 
+    
+   2)cd client
 
-   1)cd client
-
-   2)npm run test:cypress
+   3)npm run test:cypress
