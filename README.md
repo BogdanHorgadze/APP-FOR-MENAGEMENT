@@ -11,7 +11,7 @@
 
    TEST
    
-   1)npm run dev 
+   1)npm run dev (run server)
     
    2)cd client
 
