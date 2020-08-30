@@ -1,12 +1,12 @@
 # APP-FOR-MENAGEMENT
 
-   git clone https://github.com/BogdanHorgadze/APP-FOR-MENAGEMENT.git
-   cd APP-FOR-MENAGEMENT
-   npm install
-   cd client
-   npm install
-   cd ..
-   npm run all
+  1) git clone https://github.com/BogdanHorgadze/APP-FOR-MENAGEMENT.git
+  2) cd APP-FOR-MENAGEMENT
+  3) npm install
+  4) cd client
+  5) npm install
+  6) cd ..
+  7) npm run all
 
 
    TEST
