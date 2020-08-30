@@ -6,3 +6,8 @@
 4) npm install
 5) cd ..
 6) npm run all
+
+
+TEST
+cd client
+npm run cypress or npm run test:cypress 
