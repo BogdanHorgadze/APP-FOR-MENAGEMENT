@@ -8,8 +8,8 @@
 6) npm run all
 
 
-    TEST
+   TEST
 
-    1)cd client
+   1)cd client
 
-    2)npm run cypress or npm run test:cypress 
+   2)npm run cypress or npm run test:cypress 
