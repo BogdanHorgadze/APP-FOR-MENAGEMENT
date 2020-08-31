@@ -21,7 +21,9 @@ Test
 only front
 
 1)cd client
+
 2)npm run start
 
 only back
+
 1)npm run dev
