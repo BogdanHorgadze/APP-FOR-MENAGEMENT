@@ -9,6 +9,7 @@
 7) npm run all
 
 Test
+
 1)npm run dev (server)
 
 2) cd client
