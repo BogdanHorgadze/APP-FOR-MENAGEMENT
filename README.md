@@ -18,12 +18,12 @@ Test
 
 3)npm run test:cypress
 
-only front
+Only front
 
 1)cd client
 
 2)npm run start
 
-only back
+Only back
 
 1)npm run dev
