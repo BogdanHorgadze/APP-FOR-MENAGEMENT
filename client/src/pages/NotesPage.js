@@ -56,7 +56,7 @@ function NotesPage(props) {
                 </div>
                  <h1 style={{marginRight:'80px'}}>{t('title')}</h1>
                 <FormRedux onSubmit={onSubmit}/>
-                <div style={{marginRight : '100px'}}>{props.message}</div>
+                <div style={{marginRight : '60px'}}>{props.message ? t('description.part5') : ''}</div>
                 <ul className="collection with-header">
                 {renderData()}
                 </ul>

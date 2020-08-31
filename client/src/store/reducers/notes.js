@@ -2,7 +2,7 @@ import {GETDATA,MESSAGE} from '../actions/actionTypes'
 
 const initialState = {
     data: [],
-    message:''
+    message:false
 }
 
 export default function notes (state = initialState, action){

@@ -18,10 +18,10 @@ export function addNotesThunk(title){
             if(title.value.length >= 1){
                 const res = await axios.post('/notes',{title:title.value})
                 dispatch(addData(res.data))
-                dispatch(addMessage(''))
+                dispatch(addMessage(false))
             }
         }catch(e){
-           dispatch(addMessage('write something'))
+           dispatch(addMessage(true))
         }
     }
 }
