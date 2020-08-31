@@ -12,6 +12,6 @@ Test
 
 1)npm run dev (server)
 
-2) cd client
+2)cd client
 
 3)npm run test:cypress
