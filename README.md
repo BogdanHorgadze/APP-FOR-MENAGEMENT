@@ -12,7 +12,7 @@ Run front + back
 
 Test
 
-1)npm run dev      (server)
+1)npm run dev      
 
 2)cd client
 
