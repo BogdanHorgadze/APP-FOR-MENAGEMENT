@@ -1,5 +1,7 @@
 # APP-FOR-MENAGEMENT
 
+Run front + back
+
 1) git clone https://github.com/BogdanHorgadze/APP-FOR-MENAGEMENT.git
 2) cd APP-FOR-MENAGEMENT
 3) npm install
